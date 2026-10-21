@@ -31,7 +31,6 @@ FetchJ uses `ffmpeg.exe` unchanged as a separate program (it is not linked into 
 GPL-3.0: https://www.gnu.org/licenses/gpl-3.0.txt . On request we send a copy of the corresponding source:
 fetchjudicial@gmail.com.
 
-Later systems get their own file in the same release (e.g. `…_linux-x64.zip`, `…_macos-arm64.zip`).
 
 ## Checksums
 
