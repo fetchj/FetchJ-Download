@@ -15,8 +15,11 @@ Este repositorio contiene solo lo que se descarga: el instalador, los complement
 | Qué | Dónde |
 |---|---|
 | **FetchJ para Windows** (versión más reciente) | [Releases → Latest](https://github.com/fetchj/FetchJ-Download/releases/latest) → `FetchJ_<versión>_x64-setup.exe` |
+| **Manual del usuario** (PDF) | [Español](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Handbuch_DE.pdf) · [English](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_EN.pdf) |
 | Complemento **OCR** (reconocimiento de texto para la Investigación) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
 | Complemento **FFmpeg** (grabaciones de audiencias en un solo .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
+
+El manual completo también está dentro de FetchJ: *Ayuda e información → Manual del usuario* (con búsqueda).
 
 Normalmente **no hace falta descargar los complementos a mano**: FetchJ los instala con un clic („Instalar complemento OCR“ / „Instalar ffmpeg“). El archivo zip sirve para computadoras sin Internet o cuando el administrador lo prefiere („Desde archivo …“).
 
@@ -57,4 +60,4 @@ Correo: **fetchjudicial@gmail.com** – en FetchJ: *Ayuda e información → Env
 Los complementos contienen software libre de terceros; detalles en [ADDONS.md](ADDONS.md) y en la carpeta [LICENSES](LICENSES/).
 
 ---
-Página de descarga 1.0.0 · 21/10/2026
+Página de descarga 1.1.0 · 22/10/2026

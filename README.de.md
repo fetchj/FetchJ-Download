@@ -15,8 +15,11 @@ Dieses Repository enthält nur, was heruntergeladen wird: das Setup, die Zusätz
 | Was | Wo |
 |---|---|
 | **FetchJ für Windows** (neueste Version) | [Releases → Latest](https://github.com/fetchj/FetchJ-Download/releases/latest) → `FetchJ_<Version>_x64-setup.exe` |
+| **Benutzerhandbuch** (PDF) | [Deutsch](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Handbuch_DE.pdf) · [Español](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_ES.pdf) · [English](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_EN.pdf) |
 | **OCR-Zusatz** (Texterkennung für die Recherche) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
 | **FFmpeg-Zusatz** (Aufnahmen der Verhandlungen als eine .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
+
+Das ganze Handbuch steht auch in FetchJ: *Hilfe & Info → Benutzerhandbuch* (mit Suche).
 
 Die Zusätze müssen Sie **normalerweise nicht von Hand laden**: FetchJ installiert sie mit einem Klick („OCR-Zusatz installieren“ / „FFmpeg installieren“). Die Zip-Datei ist für Computer ohne Internet oder wenn der Administrator es so will („Aus Datei …“).
 
@@ -57,4 +60,4 @@ E-Mail: **fetchjudicial@gmail.com** – in FetchJ: *Hilfe & Info → Support-Dat
 Die Zusätze enthalten freie Software Dritter; Einzelheiten in [ADDONS.md](ADDONS.md) und im Ordner [LICENSES](LICENSES/).
 
 ---
-Download-Seite 1.0.0 · 21.10.2026
+Download-Seite 1.1.0 · 22.10.2026

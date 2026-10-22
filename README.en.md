@@ -15,8 +15,11 @@ This repository holds only what is downloaded: the installer, the add-ons and th
 | What | Where |
 |---|---|
 | **FetchJ for Windows** (newest version) | [Releases → Latest](https://github.com/fetchj/FetchJ-Download/releases/latest) → `FetchJ_<version>_x64-setup.exe` |
+| **User manual** (PDF) | [English](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_EN.pdf) · [Español](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Handbuch_DE.pdf) |
 | **OCR add-on** (text recognition for Research) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
 | **FFmpeg add-on** (hearing recordings as one .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
+
+The whole manual is also inside FetchJ: *Help & info → User manual* (with search).
 
 You **normally do not need to download the add-ons by hand**: FetchJ installs them with one click („Install OCR add-on“ / „Install FFmpeg“). The zip file is for computers without internet or when the administrator prefers it („From file …“).
 
@@ -57,4 +60,4 @@ E-mail: **fetchjudicial@gmail.com** – in FetchJ: *Help & Info → Send support
 The add-ons contain free third-party software; details in [ADDONS.md](ADDONS.md) and the folder [LICENSES](LICENSES/).
 
 ---
-Download page 1.0.0 · 21/10/2026
+Download page 1.1.0 · 22/10/2026
