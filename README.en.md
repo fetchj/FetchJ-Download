@@ -14,10 +14,10 @@ This repository holds only what is downloaded: the installer, the add-ons and th
 
 | What | Where |
 |---|---|
-| **FetchJ for Windows** (newest version) | [Releases → Latest](https://github.com/fetchj/FetchJ-Download/releases/latest) → `FetchJ_<version>_x64-setup.exe` |
-| **User manual** (PDF) | [English](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_EN.pdf) · [Español](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Handbuch_DE.pdf) |
-| **OCR add-on** (text recognition for Research) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
-| **FFmpeg add-on** (hearing recordings as one .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
+| **FetchJ for Windows** (newest version) | [**Download FetchJ_Setup.exe**](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Setup.exe) |
+| **User manual** (PDF) | [English](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_EN.pdf) · [Español](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Handbuch_DE.pdf) |
+| **OCR add-on** (text recognition for Research) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
+| **FFmpeg add-on** (hearing recordings as one .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
 
 The whole manual is also inside FetchJ: *Help & info → User manual* (with search).
 
@@ -27,7 +27,7 @@ Every release has a `SHA256_….txt` file with the checksums.
 
 ## Install
 
-1. Download `FetchJ_<version>_x64-setup.exe` and open it.
+1. Download `FetchJ_Setup.exe` and open it.
 2. Windows may show „Windows protected your PC“ → **More info** → **Run anyway** (test versions are not signed yet).
 3. Follow the wizard. A new version installs over the old one; your cases, settings and licence stay.
 

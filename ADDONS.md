@@ -1,6 +1,6 @@
 # FetchJ add-ons / Complementos / Zusätze
 
-Release: [`addons-1.0.0`](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) (21/10/2026)
+Release: [`addons-1.0.0`](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) (21/10/2026)
 
 The add-ons are optional parts of FetchJ that do not change with every program version. FetchJ installs them with one
 click; it checks the SHA-256 checksum of the zip before it uses it. / Los complementos son partes opcionales que no

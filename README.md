@@ -14,10 +14,10 @@ Este repositorio contiene solo lo que se descarga: el instalador, los complement
 
 | Qué | Dónde |
 |---|---|
-| **FetchJ para Windows** (versión más reciente) | [Releases → Latest](https://github.com/fetchj/FetchJ-Download/releases/latest) → `FetchJ_<versión>_x64-setup.exe` |
-| **Manual del usuario** (PDF) | [Español](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Handbuch_DE.pdf) · [English](https://github.com/fetchj/FetchJ-Download/releases/latest/download/FetchJ_Manual_EN.pdf) |
-| Complemento **OCR** (reconocimiento de texto para la Investigación) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
-| Complemento **FFmpeg** (grabaciones de audiencias en un solo .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Download/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
+| **FetchJ para Windows** (versión más reciente) | [**Descargar FetchJ_Setup.exe**](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Setup.exe) |
+| **Manual del usuario** (PDF) | [Español](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_ES.pdf) · [Deutsch](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Handbuch_DE.pdf) · [English](https://github.com/fetchj/FetchJ-Public/releases/latest/download/FetchJ_Manual_EN.pdf) |
+| Complemento **OCR** (reconocimiento de texto para la Investigación) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_OCR_1.0.0.zip` |
+| Complemento **FFmpeg** (grabaciones de audiencias en un solo .mp4) | [Release addons-1.0.0](https://github.com/fetchj/FetchJ-Public/releases/tag/addons-1.0.0) → `FetchJ_FFmpeg_1.0.0_windows-x64.zip` |
 
 El manual completo también está dentro de FetchJ: *Ayuda e información → Manual del usuario* (con búsqueda).
 
@@ -27,7 +27,7 @@ Cada release trae un archivo `SHA256_….txt` con las sumas de control.
 
 ## Instalar
 
-1. Descargue `FetchJ_<versión>_x64-setup.exe` y ábralo.
+1. Descargue `FetchJ_Setup.exe` y ábralo.
 2. Windows puede mostrar „Windows protegió su PC“ → **Más información** → **Ejecutar de todas formas** (las versiones de prueba aún no están firmadas).
 3. Siga el asistente. Una versión nueva se instala encima de la anterior; sus expedientes, ajustes y la licencia se quedan.
 
